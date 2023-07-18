@@ -6,5 +6,4 @@ The book covers essential elements of book design such as typography, layout, an
 
 From selecting appropriate fonts and color palettes to experimenting with layout and visual imagery, this book covers everything you need to know to create designs that stand out and effectively convey the essence of the book. Whether you're self-publishing or working with a traditional publisher, "The Art of Creative Book Design" will help you create book designs that are both visually appealing and effective.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
