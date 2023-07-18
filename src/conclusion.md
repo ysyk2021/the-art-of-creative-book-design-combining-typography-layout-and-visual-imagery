@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 In this book, we have explored the elements of creative book design, including typography, layout, and visual imagery. We have seen how these elements work together to create a cohesive and engaging reading experience for the audience.
 
 Recap of the Elements of Creative Book Design and their Importance
