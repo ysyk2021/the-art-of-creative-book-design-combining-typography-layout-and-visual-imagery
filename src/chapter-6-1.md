@@ -3,7 +3,7 @@ Considerations for Designing Books in Different Genres such as Fiction, Non-Fict
 
 In this chapter, we will explore the unique design considerations involved in crafting books for various genres. Each genre requires different approaches to typography, layout, and visual imagery to effectively convey the essence of the content. Whether you are designing a fiction novel, a non-fiction guide, or a children's book, understanding these genre-specific dynamics will help you create visually compelling and engaging book designs.
 
-1. Fiction Books
+1\. Fiction Books
 ----------------
 
 Fiction books encompass a wide range of genres, from romance to science fiction, mystery to historical novels. When designing for fiction, it is essential to capture the mood, tone, and themes of the story through your design choices. Here are some key considerations:
@@ -26,7 +26,7 @@ Fiction books encompass a wide range of genres, from romance to science fiction,
 * Integrate illustrations or graphics sparingly throughout the book to enhance the reading experience without overwhelming the text.
 * Coordinate with the author or publisher to select images that represent important scenes or characters.
 
-2. Non-Fiction Books
+2\. Non-Fiction Books
 --------------------
 
 Non-fiction books cover a vast array of subjects, including history, self-help, biography, and more. Unlike fiction, non-fiction books often prioritize conveying information and engaging the reader through visual aids. Consider the following when designing for non-fiction:
@@ -49,7 +49,7 @@ Non-fiction books cover a vast array of subjects, including history, self-help, 
 * Balance the use of visuals with the text, ensuring they enhance understanding rather than distract from it.
 * Maintain consistency in design elements like color schemes, icons, or graphical styles throughout the book.
 
-3. Children's Literature
+3\. Children's Literature
 ------------------------
 
 Designing for children requires a different approach altogether, as the focus shifts to capturing attention, fostering imagination, and encouraging engagement. Here are some considerations when designing for children's literature:
