@@ -36,5 +36,3 @@ Conclusion
 By combining typography, layout, and visual imagery, designers can create captivating books that engage readers on multiple levels. Each element plays a crucial role in conveying the intended message, establishing a strong visual identity, and leaving a lasting impact.
 
 Remember, the art of creative book design is not limited to the elements discussed in this chapter alone. It is an ongoing exploration where designers continuously experiment, innovate, and push boundaries to create exceptional reading experiences.
-
-*Note: The examples and references used in this chapter are purely for illustrative purposes and do not represent any specific political, territorial, or human rights-related issues.*
