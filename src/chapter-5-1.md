@@ -13,15 +13,15 @@ Before diving into specific techniques, it is essential to understand why balanc
 
 Typography plays a vital role in book design, as it not only conveys the written content but also contributes to the overall visual appeal. To achieve balance with typography, consider the following techniques:
 
-### - Font Selection and Pairing
+### Font Selection and Pairing
 
 Choose fonts that enhance the book's theme or genre while maintaining readability. Experiment with font pairings to create visual interest and contrast, such as combining serif and sans-serif fonts.
 
-### - Font Size and Weight
+### Font Size and Weight
 
 Varying font sizes and weights can help establish a visual hierarchy, guiding the reader through the content. Use larger and bolder fonts for headings and subheadings, while keeping body text legible and consistent.
 
-### - Alignment and Spacing
+### Alignment and Spacing
 
 Proper alignment and spacing of text blocks ensure a clean and organized layout. Align headings, subheadings, and body text consistently, and utilize appropriate line spacing to improve readability.
 
@@ -30,15 +30,15 @@ Proper alignment and spacing of text blocks ensure a clean and organized layout.
 
 Layout decisions greatly influence how readers perceive and interact with a book. Consider the following techniques to achieve balance in your design:
 
-### - Grid Systems
+### Grid Systems
 
 Implementing grid systems helps maintain consistency and structure throughout the layout. Utilize grids to align text, images, and other elements, creating a sense of order and visual harmony.
 
-### - White Space
+### White Space
 
 Allowing for ample white space around elements creates breathing room and improves overall readability. Embrace whitespace as an essential design element, ensuring it complements the text and imagery without overwhelming them.
 
-### - Visual Hierarchy
+### Visual Hierarchy
 
 Establish a clear visual hierarchy by using varying sizes, colors, and placements of elements. Guide the reader's eye through the page by prioritizing important information and creating focal points.
 
@@ -47,15 +47,15 @@ Establish a clear visual hierarchy by using varying sizes, colors, and placement
 
 Visual imagery is a powerful tool that can enhance the impact of a book's design. Consider these techniques to achieve balance with visual elements:
 
-### - Image Placement and Integration
+### Image Placement and Integration
 
 Integrate images seamlessly within the layout, avoiding clashes or dissonance with typography. Maintain a consistent style throughout the visuals, ensuring they complement the surrounding text.
 
-### - Color Palette and Contrast
+### Color Palette and Contrast
 
 Use a cohesive color palette that harmonizes with the book's overall theme. Employ contrast effectively to highlight key elements and create visual interest while maintaining legibility.
 
-### - Scale and Proportion
+### Scale and Proportion
 
 Pay attention to the scale and proportion of visual elements to maintain balance. Ensure that images do not overpower the text or disrupt the overall flow of the design.
 
