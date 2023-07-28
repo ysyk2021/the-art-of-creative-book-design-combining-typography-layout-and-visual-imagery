@@ -1,1 +1,0 @@
-for the book "the art of creative book design combining typography layout and visual imagery", write a chapter: "overview of typography and its role in book design".  Use Markdown format. Use English.
