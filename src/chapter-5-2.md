@@ -1,5 +1,3 @@
-Examples of Effective Designs That Incorporate Typography, Layout, and Visual Imagery
-================================================================================================
 
 This chapter explores a collection of inspiring examples that demonstrate the successful integration of typography, layout, and visual imagery. These examples showcase how these three elements work harmoniously to create visually compelling and engaging book designs.
 

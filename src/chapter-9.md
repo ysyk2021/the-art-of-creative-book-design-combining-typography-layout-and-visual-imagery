@@ -1,5 +1,3 @@
-Chapter 9: Maintaining Your Skills
-==================================
 
 Effective book design requires a combination of technical skills and creative vision. To maintain and improve these skills over time, designers must be committed to ongoing learning and professional development. In addition, it is important for designers to avoid burnout and stay motivated. In this chapter, we will explore strategies for both continual improvement and avoiding burnout.
 

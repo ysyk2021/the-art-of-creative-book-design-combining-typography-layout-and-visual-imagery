@@ -1,5 +1,3 @@
-Chapter 7: Tools and Resources for Creative Book Design
-=======================================================
 
 Effective book design requires a combination of technical skills and creative vision. In addition to specialized software and tools, designers can also benefit from resources that help them learn and improve their design skills. In this chapter, we will explore both software and tools for book design, as well as resources for learning and improving design skills.
 

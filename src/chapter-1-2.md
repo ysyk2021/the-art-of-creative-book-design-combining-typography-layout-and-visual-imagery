@@ -1,5 +1,3 @@
-Overview of the Elements that Make up Creative Book Design
-======================================================================
 
 In this chapter, we provide an overview of the essential elements that contribute to creative book design, specifically focusing on typography, layout, and visual imagery. Understanding these elements is crucial for designers seeking to create visually captivating and engaging book designs.
 

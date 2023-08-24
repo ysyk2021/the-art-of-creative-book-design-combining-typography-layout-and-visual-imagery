@@ -1,5 +1,3 @@
-Software and Tools for Book Design
-==============================================
 
 In this chapter, we explore various software and tools that can be utilized for creative book design. These resources empower designers to combine typography, layout, and visual imagery seamlessly, resulting in visually appealing and engaging book designs.
 

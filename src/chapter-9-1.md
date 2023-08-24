@@ -1,5 +1,3 @@
-Strategies for Continual Improvement
-================================================
 
 In this chapter, we discuss strategies and approaches for continually improving your creative book design skills. The field of book design is ever-evolving, and by adopting these strategies, you can enhance your abilities and create even more captivating and impactful designs.
 

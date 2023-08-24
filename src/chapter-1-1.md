@@ -1,5 +1,3 @@
-Defining Creative Book Design
-=========================================
 
 In this chapter, we delve into the concept of creative book design and explore its significance in combining typography, layout, and visual imagery. We define what creative book design entails and examine its key elements and principles.
 

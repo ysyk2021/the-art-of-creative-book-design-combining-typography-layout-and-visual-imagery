@@ -1,5 +1,3 @@
-Resources for Learning and Improving Design Skills
-==============================================================
 
 In this chapter, we compile a list of valuable resources that can aid designers in learning and improving their design skills, specifically related to combining typography, layout, and visual imagery in book design. These resources encompass a range of formats, including books, online courses, websites, and communities, providing both foundational knowledge and practical insights.
 

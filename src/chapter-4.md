@@ -1,5 +1,3 @@
-Chapter 4: Visual Imagery
-=========================
 
 Visual imagery can play a critical role in book design, creating a visual experience that complements and enhances the reading experience. In this chapter, we will explore how to effectively incorporate visual imagery into book design, and how to choose images that enhance the reading experience.
 

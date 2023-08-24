@@ -1,5 +1,3 @@
-Principles of Layout Design
-======================================
 
 This chapter explores the fundamental principles of layout design. By understanding and applying these principles, you can create visually appealing and harmonious book layouts that effectively communicate your message to readers.
 

@@ -1,5 +1,3 @@
-Chapter 8: Real World Applications
-==================================
 
 Effective book design is a critical component of the publishing process. In this chapter, we will examine real-world examples of successful book designs, as well as examples of problematic designs and their consequences.
 

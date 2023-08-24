@@ -1,5 +1,3 @@
-Overview of Typography and Its Role in Book Design
-=============================================================
 
 This chapter provides an extensive overview of typography and its vital role in book design. This chapter explores the fundamental principles and considerations for choosing and implementing typography effectively to create visually appealing and readable books.
 

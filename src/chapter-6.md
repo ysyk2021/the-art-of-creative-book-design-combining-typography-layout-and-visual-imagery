@@ -1,5 +1,3 @@
-Chapter 6: Designing for Different Genres
-=========================================
 
 Designing books for different genres requires careful consideration of the target audience, content, and desired aesthetic. In this chapter, we will explore some considerations for designing books in different genres such as fiction, non-fiction, and children's literature, as well as examples of effective designs in various genres.
 

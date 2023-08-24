@@ -1,5 +1,3 @@
-Chapter 3: Layout
-=================
 
 Layout is a critical component of book design, organizing and structuring content in a visually appealing and readable way. In this chapter, we will explore the principles of layout design and strategies for organizing and structuring content effectively.
 
@@ -57,5 +55,4 @@ Conclusion
 ----------
 
 Layout is a critical component of book design, organizing and structuring content in a visually appealing and readable way. By applying the principles of layout design and using strategies for organizing and structuring content effectively, designers can create a cohesive and engaging design that supports the overall message of the book. It is important to carefully consider each element of layout design and how they work together to create a harmonious and effective design.
-
 

@@ -1,5 +1,3 @@
-Chapter 2: Typography
-=====================
 
 Typography is a critical component of book design, enhancing the reading experience and establishing the tone and style of the book. In this chapter, we will explore the importance of typography in book design and how to choose fonts that complement your content and genre.
 

@@ -1,5 +1,3 @@
-Examples of Problematic Designs and Their Consequences
-==================================================================
 
 In this chapter, we examine examples of problematic book designs and explore the consequences they can have on the overall reading experience. By understanding these pitfalls, you can avoid making similar mistakes and create visually appealing and user-friendly designs.
 

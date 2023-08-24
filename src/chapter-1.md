@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Book design is an essential part of the publishing process. A well-designed book can capture the reader's attention, make the content more accessible and engaging, and reinforce the overall message of the book. In this chapter, we will provide an introduction to creative book design.
 

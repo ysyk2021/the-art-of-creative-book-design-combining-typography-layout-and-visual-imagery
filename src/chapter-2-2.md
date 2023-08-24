@@ -1,5 +1,3 @@
-Choosing Fonts That Complement Your Content and Genre
-================================================================
 
 This chapter delves into the crucial process of selecting fonts that effectively complement your content and genre. This chapter explores various considerations and strategies for choosing appropriate typefaces that enhance the overall aesthetic and readability of your book.
 

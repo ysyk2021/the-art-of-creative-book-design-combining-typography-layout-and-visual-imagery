@@ -1,5 +1,3 @@
-Chapter 5: Balancing Design Elements
-====================================
 
 Balancing typography, layout, and visual imagery is key to creating an effective book design. In this chapter, we will explore techniques for achieving balance between these three elements and examples of effective designs that incorporate all three.
 

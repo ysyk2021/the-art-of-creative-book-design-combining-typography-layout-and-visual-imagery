@@ -1,5 +1,3 @@
-Avoiding Burnout and Staying Motivated
-==================================================
 
 In this chapter, we explore strategies for avoiding burnout and staying motivated in the realm of creative book design. Maintaining a healthy work-life balance and nurturing your passion for design is crucial for long-term success in this field.
 

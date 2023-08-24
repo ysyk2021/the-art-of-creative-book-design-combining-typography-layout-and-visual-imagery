@@ -1,5 +1,3 @@
-Techniques for Balancing Typography, Layout, and Visual Imagery
-=====================================================================================================
 
 In this chapter, we will explore various techniques for achieving a harmonious balance between typography, layout, and visual imagery in the art of creative book design. Balancing these elements is crucial to creating visually appealing and effective designs that engage readers and convey the intended message. By mastering these techniques, designers can elevate their book designs to new levels of creativity and aesthetic beauty.
 
